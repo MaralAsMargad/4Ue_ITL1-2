@@ -16,6 +16,5 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-[![Screen Shot][product-screenshot]](<img width="838" height="752" alt="image" src="https://github.com/user-attachments/assets/c1c6a576-a9b8-4036-92e6-ffe239d18bb7" />
-)
-
+[![Screen Shot][product-screenshot]]
+(https://github.com/user-attachments/assets/c1c6a576-a9b8-4036-92e6-ffe239d18bb7)
